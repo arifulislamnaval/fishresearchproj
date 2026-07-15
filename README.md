@@ -1,7 +1,7 @@
 # 🚢 Fisheries Research Vessel (FRV)
 
 <p align="center">
-  <img src="./Fisheries-Research-Vessel2-scaled.jpg" alt="Fisheries Research Vessel" width="100%">
+  <img src="./Fishves.jpg" alt="Fisheries Research Vessel" width="100%">
 </p>
 
 <h2 align="center">Fisheries Research Vessel (FRV)</h2>
