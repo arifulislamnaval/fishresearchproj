@@ -4,121 +4,92 @@
   <img src="./Fisheries-Research-Vessel2-scaled.jpg" alt="Fisheries Research Vessel" width="100%">
 </p>
 
-<h2 align="center">
-Bangladesh Fisheries Research Institute (BFRI)
-</h2>
+<h2 align="center">Fisheries Research Vessel (FRV)</h2>
 
 <p align="center">
-<b>Lead Naval Architect | Basic & Production Design</b>
+<b>Bangladesh Fisheries Research Institute (BFRI)</b><br>
+Lead Naval Architect | Basic Design | Production Design
 </p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Client-BFRI-00599C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Class-Department%20of%20Shipping-2E8B57?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Delivery-2021-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Class-Department%20of%20Shipping-00599C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Delivered-2021-orange?style=for-the-badge"/>
 </p>
 
 ---
 
-# 📌 Project Overview
+## 📌 Project Summary
 
-| Item | Details |
-|------|---------|
-| **Project** | Fisheries Research Vessel (FRV) |
+Designed and delivered the complete **Basic Design** and **Production Design** package for a **25 m Fisheries Research Vessel** built for the **Bangladesh Fisheries Research Institute (BFRI)**. The project involved hull form development, structural design, hydrostatics, production engineering, construction support, and successful commissioning in compliance with **Department of Shipping (Bangladesh)** requirements.
+
 | **Client** | Bangladesh Fisheries Research Institute (BFRI) |
+|:-----------|:-----------------------------------------------|
 | **Role** | Lead Naval Architect |
-| **Scope** | Complete Basic & Production Design |
+| **Scope** | Basic Design & Production Design |
 | **Classification** | Department of Shipping (Bangladesh) |
 | **Delivery** | 30 September 2021 |
-| **Status** | ✅ Completed & Delivered |
-
-The **Fisheries Research Vessel (FRV)** was designed and constructed for the **Bangladesh Fisheries Research Institute (BFRI)** to support fisheries research, marine resource assessment, environmental monitoring, and scientific survey operations. As the **Lead Naval Architect**, I was responsible for delivering the complete **Basic Design** and **Production Design** package, transforming client requirements into a production-ready, class-compliant vessel.
 
 ---
 
-# 📐 Principal Particulars
+## 📐 Key Particulars
 
-| Particular | Specification |
-|------------|--------------|
-| **Length Overall** | 25.00 m |
-| **Breadth** | 6.00 m |
-| **Depth** | 2.80 m |
-| **Draft** | 1.40 m |
-| **Main Engines** | 2 × 255 HP Yanmar |
-| **Generator** | 1 × 37 kVA Beta Marine |
-| **Maximum Speed** | 10 Knots |
-| **Classification** | Department of Shipping (Bangladesh) |
+| Parameter | Value |
+|:----------|------:|
+| Length Overall | **25.0 m** |
+| Breadth | **6.0 m** |
+| Draft | **1.40 m** |
+| Service Speed | **10 knots** |
 
 ---
 
-# 💻 Engineering Tools
+## 👨‍💼 Engineering Contributions
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/Maxsurf-Hydrostatics%20%26%20Stability-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/Rhino3D-3D%20Modeling-lightgrey?style=flat-square"/>
-<img src="https://img.shields.io/badge/ANSYS-Structural%20Analysis-orange?style=flat-square"/>
-<img src="https://img.shields.io/badge/AutoCAD-Production%20Drawings-red?style=flat-square"/>
-<img src="https://img.shields.io/badge/AVEVA%20Marine-Production%20Engineering-blueviolet?style=flat-square"/>
-
-</p>
+- Led the complete **Basic** and **Production Design** of the vessel.
+- Developed hull form, GA, Lines Plan, hydrostatics, stability calculations, and weight estimation.
+- Designed hull structure and prepared structural, outfitting, and production drawings.
+- Produced production engineering documentation, material take-offs (MTO), and nesting data.
+- Coordinated design support during construction and resolved engineering issues.
+- Supported regulatory inspections, sea trials, commissioning, and final delivery.
 
 ---
 
-# ⚓ Engineering Scope
+## ⭐ Technical Expertise Demonstrated
 
-- Basic Ship Design
-- Production Design
-- Hull Structural Design
-- Hydrostatics & Stability Analysis
-- Production Engineering
-- Construction Support
-- Technical Documentation
-- Regulatory Compliance
-- Sea Trials & Commissioning
+**Ship Design • Hull Structural Design • Hydrostatics & Stability • Production Engineering • Technical Documentation • Construction Support • Regulatory Compliance • Commissioning**
 
 ---
 
-# 👨‍💼 My Contribution
+## 💻 Engineering Software
 
-As the **Lead Naval Architect**, I was responsible for the complete engineering design of the vessel, from concept development through production engineering.
-
-### Key Responsibilities
-
-- Led the complete **Basic Design** and **Production Design** of the vessel.
-- Developed hull form, General Arrangement, Lines Plan, hydrostatics, stability calculations, and weight estimation.
-- Designed the hull structure in compliance with applicable rules and client requirements.
-- Prepared detailed structural, outfitting, and production drawings for shipyard construction.
-- Produced material take-offs (MTO), nesting data, and production documentation.
-- Coordinated with production teams to resolve engineering issues during construction.
-- Reviewed design modifications and provided technical support throughout the construction phase.
-- Supported regulatory inspections, sea trials, commissioning, and successful project delivery.
+**AVEVA Marine • Maxsurf • Rhino3D • ANSYS • AutoCAD**
 
 ---
 
-# 🏆 Project Highlights
+## 📷 Project Gallery
 
-- ✅ Delivered the complete Basic Design and Production Design package.
-- ✅ Successfully delivered to the Bangladesh Fisheries Research Institute (BFRI).
-- ✅ Fully compliant with Department of Shipping (Bangladesh) requirements.
-- ✅ Produced production-ready engineering documentation for shipyard construction.
-- ✅ Supported successful construction, sea trials, commissioning, and final delivery.
+<table align="center">
+<tr>
+<td align="center">
+<img src="./Construction.jpg" width="450"><br>
+<b>Construction Phase</b>
+</td>
 
----
-
-# 📬 Contact
-
-**Md. Ariful Islam**  
-**Senior Naval Architect & Marine Engineer**
-
-📧 **ariful.buet1985@gmail.com**
-
-💼 **LinkedIn:** https://linkedin.com/in/islam-mdariful
-
+<td align="center">
+<img src="./SeaTrial.jpg" width="450"><br>
+<b>Sea Trials & Commissioning</b>
+</td>
+</tr>
+</table>
 
 ---
 
-<p align="center">
-<b>Designing Practical, Class-Compliant, and Production-Ready Marine Engineering Solutions.</b>
-</p>
+## 📬 Contact
+
+**Md. Ariful Islam**
+
+**Senior Naval Architect | Ship Design | Structural Engineering | Project Management | Classification Compliance**
+
+📧 ariful.buet1985@gmail.com
+
+💼 https://linkedin.com/in/islam-mdariful
