@@ -66,23 +66,6 @@ Designed and delivered the complete **Basic Design** and **Production Design** p
 
 ---
 
-## 📷 Project Gallery
-
-<table align="center">
-<tr>
-<td align="center">
-<img src="./Construction.jpg" width="450"><br>
-<b>Construction Phase</b>
-</td>
-
-<td align="center">
-<img src="./SeaTrial.jpg" width="450"><br>
-<b>Sea Trials & Commissioning</b>
-</td>
-</tr>
-</table>
-
----
 
 ## 📬 Contact
 
